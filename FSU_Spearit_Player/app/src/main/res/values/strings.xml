@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Assignment 5 - Wendy Slattery</string>
+    <string name="fsu_spearit_player">FSU SPEARIT PLAYER</string>
+    <string name="war_chant">War Chant</string>
+    <string name="fsu_fight_song">FSU Fight Song</string>
+    <string name="fsu_victory_song">FSU Victory Song</string>
+    <string name="garnet_and_gold">Garnet and Gold</string>
+    <string name="fsu_cheer">FSU Cheer</string>
+    <string name="_4th_quarter_fanfare">4th Quarter Fanfare</string>
+    <string name="seminole_uprising">Seminole Uprising</string>
+    <string name="stop">STOP</string>
+    <string name="pause">PAUSE</string>
+    <string name="play">RESUME</string>
+    <string name="_0_min_0_sec">0 min, 0 sec</string>
+    <string name="textviewcenter">TextViewCenter</string>
+    <string name="show_ad">Show Ad</string>
+</resources>
