@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#cdc092"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/txt_gamerPick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="170dp"
+        android:layout_marginTop="49dp"
+        android:text="@string/gamer_pick"
+        android:textAlignment="center"
+        android:textColor="#540115" />
+
+    <ImageView
+        android:id="@+id/img_gamerPick"
+        android:layout_width="120dp"
+        android:layout_height="100dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="73dp"
+        android:contentDescription="@string/bear"
+        app:srcCompat="@drawable/bear" />
+
+    <TextView
+        android:id="@+id/txt_dwightsPick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="157dp"
+        android:layout_marginTop="199dp"
+        android:text="@string/dwights_pick"
+        android:textAlignment="center"
+        android:textColor="#540115" />
+
+    <ImageView
+        android:id="@+id/img_dwightsPick"
+        android:layout_width="120dp"
+        android:layout_height="100dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_marginEnd="145dp"
+        android:layout_marginBottom="287dp"
+        android:contentDescription="@string/battlestar"
+        app:srcCompat="@drawable/battlestar" />
+
+    <TextView
+        android:id="@+id/txt_score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="131dp"
+        android:layout_marginBottom="232dp"
+        android:text="@string/score"
+        android:textColor="#540115" />
+
+    <Button
+        android:id="@+id/btn_bear"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="32dp"
+        android:layout_marginBottom="147dp"
+        android:backgroundTint="#540115"
+        android:text="@string/bear"
+        android:textColor="#CDC092" />
+
+    <Button
+        android:id="@+id/btn_beets"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="151dp"
+        android:layout_marginBottom="147dp"
+        android:backgroundTint="#540115"
+        android:text="@string/beets"
+        android:textColor="#CDC092" />
+
+    <Button
+        android:id="@+id/btn_battlestar"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="33dp"
+        android:layout_marginBottom="147dp"
+        android:backgroundTint="#540115"
+        android:text="@string/battlestar"
+        android:textColor="#CDC092" />
+
+
+</RelativeLayout>

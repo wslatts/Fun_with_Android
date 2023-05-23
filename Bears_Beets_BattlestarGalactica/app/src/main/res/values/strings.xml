@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bears - Beets - Battlestar Galactica</string>
+    <string name="gamer_pick">Your Pick</string>
+    <string name="dwights_pick">Dwight\'s Pick</string>
+    <string name="bear">Bear</string>
+    <string name="beets">Beets</string>
+    <string name="battlestar">Battlestar</string>
+    <string name="score">Score:  You: 0   Dwight: 0</string>
+</resources>
