@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FSU: Tic Tac Seminole</string>
+    <string name="player_x_0">X: 0</string>
+    <string name="player_o_0">O: 0</string>
+    <string name="reset">reset game</string>
+    <string name="created_by_wendy_slattery">Created By: Wendy Slattery</string>
+</resources>
