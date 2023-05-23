@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">COP 4656 - Assignment2</string>
+    <string name="go_seminoles">Go Noles!</string>
+    <string name="later_gator">Later Gator</string>
+    <string name="seminole_pride">Seminole Pride</string>
+    <string name="just_say_no">Just Say No</string>
+    <string name="FSU_name">Florida State Seminoles</string>
+    <string name="meh">Meh (shrug)</string>
+    <string name="seminole_mascot">seminole mascot</string>
+    <string name="show_me_a_gator">Show me a Gator!</string>
+    <string name="show_me_a_nole">Show Me a Nole!</string>
+</resources>
